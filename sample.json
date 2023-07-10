@@ -1,0 +1,29 @@
+{
+  "url": "http://161.85.20.21:8080/api/jobs/237",
+  "id": 237,
+  "task_id": 971,
+  "project_id": 859,
+  "assignee": null,
+  "dimension": "2d",
+  "bug_tracker": "",
+  "status": "annotation",
+  "stage": "annotation",
+  "state": "in progress",
+  "mode": "annotation",
+  "start_frame": 0,
+  "stop_frame": 0,
+  "data_chunk_size": 36,
+  "organization": null,
+  "data_compressed_chunk_type": "imageset",
+  "updated_date": "2023-07-05T05:44:45.429433Z",
+  "issues": {
+    "url": "http://161.85.20.21:8080/api/issues?job_id=237",
+    "count": 0
+  },
+  "labels": {
+    "url": "http://161.85.20.21:8080/api/labels?job_id=237",
+    "count": 2
+  }
+}
+
+  
